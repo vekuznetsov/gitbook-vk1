@@ -28,11 +28,12 @@
 * [Мощность и скорость](podgotovka-zadaniya/moshnost-i-skorost.md)
 * [Цветовое кодирование режимов](podgotovka-zadaniya/cvetovoe-kodirovanie-rezhimov.md)
 * [Начало координат](podgotovka-zadaniya/nachalo-koordinat.md)
+* [Page](podgotovka-zadaniya/page.md)
+
+## Fundamentals
 
 ***
 
 * [🛠 Getting set up](getting-set-up/README.md)
   * [📝 Setting permissions](getting-set-up/setting-permissions.md)
   * [🧑 Inviting Members](getting-set-up/inviting-members.md)
-
-## Fundamentals
