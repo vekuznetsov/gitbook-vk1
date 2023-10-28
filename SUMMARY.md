@@ -26,11 +26,11 @@
 * [CAD/CAM/CNC](podgotovka-zadaniya/cad-cam-cnc.md)
 * [Вектор и растр](podgotovka-zadaniya/vektor-i-rastr.md)
 * [Мощность и скорость](podgotovka-zadaniya/moshnost-i-skorost.md)
+* [Цветовое кодирование режимов](podgotovka-zadaniya/cvetovoe-kodirovanie-rezhimov.md)
+* [Начало координат](podgotovka-zadaniya/nachalo-koordinat.md)
 
 ***
 
-* [Свет через цвет](svet-cherez-cvet.md)
-* [Подготовка задания](podgotovka-zadaniya-1.md)
 * [🛠 Getting set up](getting-set-up/README.md)
   * [📝 Setting permissions](getting-set-up/setting-permissions.md)
   * [🧑 Inviting Members](getting-set-up/inviting-members.md)
