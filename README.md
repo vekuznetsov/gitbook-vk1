@@ -15,7 +15,9 @@
 
 
 
-<figure><img src=".gitbook/assets/ultimaker_original.jpg" alt=""><figcaption><p>3D принтер Ultimaker в 2011 году по праву считался самым быИсточник: <a href="https://ultimaker.com/learn/three-reasons-for-open-source-tech-in-your-3d-printing-classroom/">https://ultimaker.com/learn/three-reasons-for-open-source-tech-in-your-3d-printing-classroom/</a></p></figcaption></figure>
+<figure><img src=".gitbook/assets/ultimaker_original.jpg" alt=""><figcaption><p>3D принтер Ultimaker в 2011 году по праву считался самым быстрым в своем классе. Большинство деталей принтера, включая шестерни редуктора экструдера, изготавливались лазерной резкой фанеры.  <br>Источник: <a href="https://ultimaker.com/learn/three-reasons-for-open-source-tech-in-your-3d-printing-classroom/">https://ultimaker.com/learn/three-reasons-for-open-source-tech-in-your-3d-printing-classroom/</a></p></figcaption></figure>
+
+
 
 {% content-ref url="vvedenie/lazernaya-rezka-i-markirovka.md" %}
 [lazernaya-rezka-i-markirovka.md](vvedenie/lazernaya-rezka-i-markirovka.md)
