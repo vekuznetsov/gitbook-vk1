@@ -28,7 +28,7 @@
 * [Мощность и скорость](podgotovka-zadaniya/moshnost-i-skorost.md)
 * [Цветовое кодирование режимов](podgotovka-zadaniya/cvetovoe-kodirovanie-rezhimov.md)
 * [Начало координат](podgotovka-zadaniya/nachalo-koordinat.md)
-* [Page](podgotovka-zadaniya/page.md)
+* [Отправка задания](podgotovka-zadaniya/otpravka-zadaniya.md)
 
 ## Fundamentals
 
