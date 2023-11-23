@@ -29,11 +29,3 @@
 * [Цветовое кодирование режимов](podgotovka-zadaniya/cvetovoe-kodirovanie-rezhimov.md)
 * [Начало координат](podgotovka-zadaniya/nachalo-koordinat.md)
 * [Отправка задания](podgotovka-zadaniya/otpravka-zadaniya.md)
-
-## Fundamentals
-
-***
-
-* [🛠 Getting set up](getting-set-up/README.md)
-  * [📝 Setting permissions](getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](getting-set-up/inviting-members.md)

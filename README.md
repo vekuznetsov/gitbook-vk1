@@ -35,14 +35,14 @@
 [bezopasnost-prevyshe-vsego.md](rabota-s-co2-mashinoi-gcc-spirit/bezopasnost-prevyshe-vsego.md)
 {% endcontent-ref %}
 
-{% content-ref url="getting-set-up/" %}
-[getting-set-up](getting-set-up/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](getting-set-up/setting-permissions.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="getting-set-up/inviting-members.md" %}
-[inviting-members.md](getting-set-up/inviting-members.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
